@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Garg</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishan-garg17" alt="ishan-garg17" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS and NextJs**
 
