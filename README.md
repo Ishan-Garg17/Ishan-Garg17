@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ishan-garg17.github.io/Portfoliosite/](https://ishan-garg17.github.io/Portfoliosite/)
 
-- 💬 Ask me about **react, JavaScript. CSS, NodeJS**
+- 💬 Ask me about **ReactJS, JavaScript. CSS, NodeJS**
 
 - 📫 How to reach me **ishangarg17@gmail.com**
 
