@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://ishan-garg17.github.io/Portfoliosite/](https://ishan-garg17.github.io/Portfoliosite/)
+- 👨‍💻 All of my projects are available at [https://ishangarg17.netlify.app/](https://ishan-garg17.github.io/Portfoliosite/)
 
 - 💬 Ask me about **ReactJS, JavaScript. CSS, NodeJS**
 
