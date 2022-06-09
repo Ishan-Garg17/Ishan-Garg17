@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-garg17&" alt="ishan-garg17" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishan-garg17" alt="ishan-garg17" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishan-garg17&show_icons=true&locale=en&layout=compact" alt="ishan-garg17" /></p>
