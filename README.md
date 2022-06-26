@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Garg</h1>
 <h3 align="center">A passionate computer science student</h3>
-
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Garg17&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning **NextJs**
 
