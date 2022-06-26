@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Garg</h1>
 <h3 align="center">Full-Stack Developer | Data Science Enthusiast</h3>
  
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>Learn More About Me</h3>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> <h3>Learn More About Me</h3>
 - 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **Web Development**
@@ -17,7 +17,8 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishan-Garg17&show_icons=true&count_private=true&theme=tokyonight" alt="ishan-garg17" /></p>
-
+</br>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-garg17&" alt="ishan-garg17" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
