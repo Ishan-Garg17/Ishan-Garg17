@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 All of my projects are available at [](https://ishangarg17.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://ishangarg17.netlify.app/)
 
 - 💬 Ask me about **ReactJS, JavaScript. CSS, NodeJS**
 
