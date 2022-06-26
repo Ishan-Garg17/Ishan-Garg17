@@ -16,7 +16,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishan-Garg17&show_icons=true&theme=radical" alt="ishan-garg17" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishan-Garg17&show_icons=true&count_private=true&theme=radical" alt="ishan-garg17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-garg17&" alt="ishan-garg17" /></p>
 
