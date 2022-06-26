@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ishan Garg</h1>
-<h3 align="center">A passionate computer science student</h3>
-![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-Garg17&show_icons=true&theme=radical)
+<h3 align="center">Full-Stack Developer | Data Science Enthusiast</h3>
+
 
 - 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://ishangarg17.netlify.app/](https://ishan-garg17.github.io/Portfoliosite/)
+- 👨‍💻 All of my projects are available at [](https://ishangarg17.netlify.app/)
 
 - 💬 Ask me about **ReactJS, JavaScript. CSS, NodeJS**
 
@@ -16,7 +16,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishan-Garg17&show_icons=true&count_private=true&theme=radical" alt="ishan-garg17" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishan-Garg17&show_icons=true&count_private=true&theme=tokyonight" alt="ishan-garg17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-garg17&" alt="ishan-garg17" /></p>
 
