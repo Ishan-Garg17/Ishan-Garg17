@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ishan Garg</h1>
 <h3 align="center">Full-Stack Developer | Data Science Enthusiast</h3>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">🌱 I’m currently learning **NextJs**
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
+- 🌱 I’m currently learning **NextJs**
 
-        - 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Development**
 
-        - 👨‍💻 All of my projects are available [here](https://ishangarg17.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://ishangarg17.netlify.app/)
 
-        - 💬 Ask me about **ReactJS, JavaScript. CSS, NodeJS**
+- 💬 Ask me about **ReactJS, JavaScript. CSS, NodeJS**
 
-        - 📫 How to reach me **ishangarg17@gmail.com**
+- 📫 How to reach me **ishangarg17@gmail.com**
 
-        - ⚡ Fun fact **Eat Code Repeat**
+- ⚡ Fun fact **Eat Code Repeat**
 
 
 
