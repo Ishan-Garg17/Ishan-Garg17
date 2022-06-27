@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ReactJS, JavaScript. CSS, NodeJS**
 
-- 📫 How to reach me **ishangarg17@gmail.com**
+- 📫 Reach me at **ishangarg17@gmail.com**
 
 - ⚡ Fun fact **Eat Code Repeat**
 
